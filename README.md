@@ -2,11 +2,9 @@
 
 **Cadentis** is a web application developed in Angular for real-time analysis and identification of poetic meter, syllable structures, and rhyme schemes. Inspired by ancient Greek prosody, Cadentis offers a comprehensive toolkit for understanding and crafting metrical poetry, making it an ideal resource for poets, linguists, and literature enthusiasts.
 
-### Live Demo
 
 A live, runnable version of this project is automatically deployed via GitHub Actions.
 
-**[Access the Live Demo Here](https://aporkolab.github.io/cadentis/)**
 
 *(Note: The deployment is updated automatically on every push to the `main` branch.)*
 
